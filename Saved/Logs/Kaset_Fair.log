@@ -5220,3 +5220,1005 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.09.08-21.19.04:531][249]LogFileHelpers: Saving map 'MainMap' took 0.252
 [2022.09.08-21.19.04:534][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap_BuiltData" FILE="../../../../../UE Project/Kaset_Fair/Content/MainMap_BuiltData.uasset" SILENT=true
 [2022.09.08-21.19.04:624][249]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/MainMap_BuiltData49259C08481E0D3FD252D4B10EBD81DB.tmp' to '../../../../../UE Project/Kaset_Fair/Content/MainMap_BuiltData.uasset'
+[2022.09.08-21.46.17:059][525]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.08-21.46.17:067][525]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.46.17:067][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-21.46.17:067][525]PIE: New page: PIE session: MainMap (Sep 9, 2022, 11:46:17 AM)
+[2022.09.08-21.46.17:067][525]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.09.08-21.46.17:074][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007088s)
+[2022.09.08-21.46.17:075][525]LogAIModule: Creating AISystem for world MainMap
+[2022.09.08-21.46.17:075][525]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2022.09.08-21.46.17:075][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.007944s)
+[2022.09.08-21.46.17:112][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.09.08-21.46.17:129][525]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.08-21.46.17:148][525]LogInit: FAudioDevice initialized.
+[2022.09.08-21.46.17:175][525]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.08-21.46.17:178][525]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.09.09-04.46.17
+[2022.09.08-21.46.17:178][525]LogWorld: Bringing up level for play took: 0.002654
+[2022.09.08-21.46.17:191][525]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap 0.875
+[2022.09.08-21.46.17:191][525]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.46.19:200][764]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.46.19:200][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-21.46.19:239][764]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-21.46.19:240][764]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.46.19:276][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-21.46.19:281][764]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.09.08-21.46.19:306][765]LogPlayLevel: Display: Destroying online subsystem :Context_124
+[2022.09.08-21.46.25:550][467]LogEditorViewport: Clicking on Actor (LMB): BP_InteractiveCube_C (BP_InteractiveCube)
+[2022.09.08-21.46.26:249][544]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2022.09.08-21.46.26:292][544]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.09.08-21.46.26:921][611]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.09.08-21.46.27:191][638]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.09.08-21.46.27:943][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_trash)
+[2022.09.08-21.46.28:312][764]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.09.08-21.46.33:678][369]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.09.08-21.46.33:878][388]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.09.08-21.46.35:302][553]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.09.08-21.46.35:385][561]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2022.09.08-21.46.35:928][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-21.46.36:659][709]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2022.09.08-21.46.37:061][755]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2022.09.08-21.46.37:806][842]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2022.09.08-21.46.43:274][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-21.46.47:850][955]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 1
+[2022.09.08-21.47.07:400][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-21.47.11:084][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-21.47.13:186][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-21.47.15:100][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-21.47.16:970][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-21.47.22:050][857]LogEditorViewport: Clicking on Actor (LMB): BP_InteractiveTeleportPoint_C (BP_InteractiveTeleportPoint6)
+[2022.09.08-21.47.23:752][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-21.47.25:734][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-21.47.30:480][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-21.47.33:585][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-21.47.35:106][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.09.08-21.47.40:995][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-21.47.43:063][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-21.47.46:020][578]LogEditorViewport: Clicking on Actor (LMB): BP_InteractiveTeleportPoint_C (BP_InteractiveTeleportPoint5)
+[2022.09.08-21.47.47:673][770]LogEditorViewport: Clicking on Actor (LMB): BP_InteractiveTeleportPoint_C (BP_InteractiveTeleportPoint3)
+[2022.09.08-21.47.49:516][980]LogEditorViewport: Clicking on Actor (LMB): BP_InteractiveTeleportPoint_C (BP_InteractiveTeleportPoint3)
+[2022.09.08-21.47.54:317][531]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.09.08-21.48.00:907][291]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.09.08-21.48.00:967][294]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2022.09.08-21.48.02:046][419]LogEditorViewport: Clicking on Actor (LMB): BP_InteractiveTeleportPoint_C (BP_InteractiveTeleportPoint3)
+[2022.09.08-21.48.07:312][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_38)
+[2022.09.08-21.48.08:153][115]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.09.08-21.48.14:337][821]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.09.08-21.48.17:125][140]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-21.48.22:521][775]LogEditorViewport: Clicking on Actor (LMB): BP_InteractiveTeleportPoint_C (BP_InteractiveTeleportPoint10)
+[2022.09.08-21.48.23:598][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.09.08-21.48.23:996][937]LogEditorViewport: Clicking on Actor (LMB): BP_InteractiveTeleportPoint_C (BP_InteractiveTeleportPoint10)
+[2022.09.08-21.48.26:028][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.09.08-21.48.28:278][429]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.09.08-21.48.28:938][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-21.48.29:259][540]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.08-21.48.29:266][540]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.48.29:266][540]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-21.48.29:266][540]PIE: New page: PIE session: MainMap (Sep 9, 2022, 11:48:29 AM)
+[2022.09.08-21.48.29:266][540]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.09.08-21.48.29:274][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007809s)
+[2022.09.08-21.48.29:275][540]LogAIModule: Creating AISystem for world MainMap
+[2022.09.08-21.48.29:275][540]LogPlayLevel: PIE: World Init took: (0.000578s)
+[2022.09.08-21.48.29:275][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.008553s)
+[2022.09.08-21.48.29:321][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.09.08-21.48.29:340][540]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.08-21.48.29:359][540]LogInit: FAudioDevice initialized.
+[2022.09.08-21.48.29:387][540]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.08-21.48.29:390][540]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.09.09-04.48.29
+[2022.09.08-21.48.29:391][540]LogWorld: Bringing up level for play took: 0.002978
+[2022.09.08-21.48.29:404][540]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap 1.088
+[2022.09.08-21.48.29:404][540]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.48.33:618][ 44]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.48.33:618][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-21.48.33:651][ 44]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-21.48.33:652][ 44]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.48.33:686][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-21.48.33:691][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.09.08-21.48.33:731][ 46]LogPlayLevel: Display: Destroying online subsystem :Context_125
+[2022.09.08-21.48.36:773][406]LogEditorViewport: Clicking on Actor (LMB): BP_InteractiveTeleportPoint_C (BP_InteractiveTeleportPoint)
+[2022.09.08-21.48.37:485][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.09.08-21.48.39:563][720]LogEditorViewport: Clicking on Actor (LMB): BP_InteractiveTeleportPoint_C (BP_InteractiveTeleportPoint)
+[2022.09.08-21.48.40:243][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-21.48.44:757][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-21.48.45:332][364]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.08-21.48.45:339][364]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.48.45:339][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-21.48.45:339][364]PIE: New page: PIE session: MainMap (Sep 9, 2022, 11:48:45 AM)
+[2022.09.08-21.48.45:340][364]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.09.08-21.48.45:348][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008395s)
+[2022.09.08-21.48.45:348][364]LogAIModule: Creating AISystem for world MainMap
+[2022.09.08-21.48.45:349][364]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2022.09.08-21.48.45:349][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.009118s)
+[2022.09.08-21.48.45:384][364]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.09.08-21.48.45:401][364]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.08-21.48.45:419][364]LogInit: FAudioDevice initialized.
+[2022.09.08-21.48.45:450][364]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.08-21.48.45:453][364]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.09.09-04.48.45
+[2022.09.08-21.48.45:453][364]LogWorld: Bringing up level for play took: 0.002761
+[2022.09.08-21.48.45:466][364]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap -0.85
+[2022.09.08-21.48.45:466][364]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.49.03:936][574]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.49.03:937][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-21.49.03:972][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-21.49.03:972][574]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.49.04:010][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-21.49.04:015][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.09.08-21.49.04:041][575]LogPlayLevel: Display: Destroying online subsystem :Context_126
+[2022.09.08-21.49.05:125][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-21.49.05:200][713]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.08-21.49.05:207][713]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.49.05:207][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-21.49.05:207][713]PIE: New page: PIE session: MainMap (Sep 9, 2022, 11:49:05 AM)
+[2022.09.08-21.49.05:207][713]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.09.08-21.49.05:214][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007343s)
+[2022.09.08-21.49.05:215][713]LogAIModule: Creating AISystem for world MainMap
+[2022.09.08-21.49.05:215][713]LogPlayLevel: PIE: World Init took: (0.000511s)
+[2022.09.08-21.49.05:215][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.007984s)
+[2022.09.08-21.49.05:247][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.09.08-21.49.05:263][713]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.08-21.49.05:282][713]LogInit: FAudioDevice initialized.
+[2022.09.08-21.49.05:311][713]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.08-21.49.05:314][713]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.09.09-04.49.05
+[2022.09.08-21.49.05:315][713]LogWorld: Bringing up level for play took: 0.002662
+[2022.09.08-21.49.05:328][713]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap 1.012
+[2022.09.08-21.49.05:328][713]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.49.09:725][238]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.49.09:725][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-21.49.09:762][238]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-21.49.09:762][238]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.49.09:801][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-21.49.09:805][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.09.08-21.49.09:832][239]LogPlayLevel: Display: Destroying online subsystem :Context_127
+[2022.09.08-21.49.13:427][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-21.49.21:257][589]LogEditorViewport: Clicking on Actor (LMB): BP_InteractiveTeleportPoint_C (BP_InteractiveTeleportPoint)
+[2022.09.08-21.49.24:184][934]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.09.08-21.49.24:192][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../UE Project/Kaset_Fair/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.08-21.49.24:223][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.09.08-21.49.24:441][934]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/MainMapEDB84C7742A95A78F4EA6A8E232AAF41.tmp' to '../../../../../UE Project/Kaset_Fair/Content/MainMap.umap'
+[2022.09.08-21.49.24:457][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap_BuiltData" FILE="../../../../../UE Project/Kaset_Fair/Content/MainMap_BuiltData.uasset" SILENT=true
+[2022.09.08-21.49.24:517][934]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/MainMap_BuiltData5DA532A34DBAD78377CE56A1736CDBE0.tmp' to '../../../../../UE Project/Kaset_Fair/Content/MainMap_BuiltData.uasset'
+[2022.09.08-21.49.26:703][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-21.49.28:806][437]LogEditorViewport: Clicking on Actor (LMB): BP_InteractiveTeleportPoint_C (BP_InteractiveTeleportPoint12)
+[2022.09.08-21.49.29:988][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.09.08-21.49.31:966][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-21.49.36:454][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-21.49.36:520][309]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.08-21.49.36:528][309]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.49.36:528][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-21.49.36:528][309]PIE: New page: PIE session: MainMap (Sep 9, 2022, 11:49:36 AM)
+[2022.09.08-21.49.36:528][309]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.09.08-21.49.36:536][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007815s)
+[2022.09.08-21.49.36:536][309]LogAIModule: Creating AISystem for world MainMap
+[2022.09.08-21.49.36:536][309]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2022.09.08-21.49.36:537][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.008529s)
+[2022.09.08-21.49.36:571][309]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.09.08-21.49.36:588][309]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.08-21.49.36:622][309]LogInit: FAudioDevice initialized.
+[2022.09.08-21.49.36:658][309]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.08-21.49.36:671][309]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.09.09-04.49.36
+[2022.09.08-21.49.36:672][309]LogWorld: Bringing up level for play took: 0.009935
+[2022.09.08-21.49.36:686][309]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap 0.371
+[2022.09.08-21.49.36:686][309]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.49.44:391][231]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.49.44:391][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-21.49.44:434][231]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-21.49.44:434][231]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.49.44:474][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-21.49.44:478][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.09.08-21.49.44:504][232]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2022.09.08-21.49.46:301][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-21.49.47:537][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_GameMode" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_GameMode.uasset" SILENT=true
+[2022.09.08-21.49.47:544][592]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_GameMode6E55B9704D48C826A7CE00902D8402C7.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_GameMode.uasset'
+[2022.09.08-21.49.47:550][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_InteractiveBase" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveBase.uasset" SILENT=true
+[2022.09.08-21.49.47:558][592]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_InteractiveBase6C07170B4BA5FB423E8FEC9048881F56.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveBase.uasset'
+[2022.09.08-21.49.47:563][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_InteractiveCube" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveCube.uasset" SILENT=true
+[2022.09.08-21.49.47:639][592]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_InteractiveCube4E370AA84CA125956174099BBBF9397E.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveCube.uasset'
+[2022.09.08-21.49.47:646][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_InteractiveTeleportPoint" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveTeleportPoint.uasset" SILENT=true
+[2022.09.08-21.49.47:661][592]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_InteractiveTeleportPoint8AD932604925E1AD81C30EA20265A4E6.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveTeleportPoint.uasset'
+[2022.09.08-21.49.47:666][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PawnBase" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_PawnBase.uasset" SILENT=true
+[2022.09.08-21.49.47:697][592]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_PawnBase743F547548D3E462022AF981D336B641.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_PawnBase.uasset'
+[2022.09.08-21.49.47:703][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../UE Project/Kaset_Fair/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.08-21.49.47:735][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.09.08-21.49.47:952][592]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/MainMap718BA32E467E3612F62AA5A710A0A35A.tmp' to '../../../../../UE Project/Kaset_Fair/Content/MainMap.umap'
+[2022.09.08-21.49.47:967][592]LogFileHelpers: Saving map 'MainMap' took 0.264
+[2022.09.08-21.49.47:970][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap_BuiltData" FILE="../../../../../UE Project/Kaset_Fair/Content/MainMap_BuiltData.uasset" SILENT=true
+[2022.09.08-21.49.48:029][592]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/MainMap_BuiltData92E929544A457D91B7F78196AFA4DF1D.tmp' to '../../../../../UE Project/Kaset_Fair/Content/MainMap_BuiltData.uasset'
+[2022.09.08-21.49.48:438][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-21.50.02:949][365]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.08-21.50.02:956][365]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.50.02:956][365]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.09.08-21.50.02:957][365]LogPlayLevel: [PlayLevel] Compiling BP_InteractiveTeleportPoint before play...
+[2022.09.08-21.50.03:146][365]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.09.08-21.50.03:146][365]LogPlayLevel: PlayLevel: Blueprint regeneration took 190 ms (1 blueprints)
+[2022.09.08-21.50.03:146][365]PIE: New page: PIE session: MainMap (Sep 9, 2022, 11:50:03 AM)
+[2022.09.08-21.50.03:147][365]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.09.08-21.50.03:153][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006868s)
+[2022.09.08-21.50.03:154][365]LogAIModule: Creating AISystem for world MainMap
+[2022.09.08-21.50.03:154][365]LogPlayLevel: PIE: World Init took: (0.000530s)
+[2022.09.08-21.50.03:154][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.007529s)
+[2022.09.08-21.50.03:187][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.09.08-21.50.03:204][365]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.08-21.50.03:223][365]LogInit: FAudioDevice initialized.
+[2022.09.08-21.50.03:234][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-21.50.03:264][365]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.08-21.50.03:268][365]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.09.09-04.50.03
+[2022.09.08-21.50.03:268][365]LogWorld: Bringing up level for play took: 0.003015
+[2022.09.08-21.50.03:280][365]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.09.08-21.50.03:283][365]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap 0.968
+[2022.09.08-21.50.03:283][365]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.50.04:507][503]LogSlate: Window 'Kaset_Fair Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.09.08-21.50.04:512][503]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.50.04:547][503]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-21.50.04:548][503]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.50.04:588][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.09.08-21.50.04:609][505]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2022.09.08-21.50.05:200][575]BlueprintLog: New page: Compile BP_InteractiveTeleportPoint
+[2022.09.08-21.50.05:364][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.09.08-21.50.06:744][734]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.08-21.50.06:765][734]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.50.06:765][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-21.50.06:765][734]PIE: New page: PIE session: MainMap (Sep 9, 2022, 11:50:06 AM)
+[2022.09.08-21.50.06:765][734]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.09.08-21.50.06:774][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008135s)
+[2022.09.08-21.50.06:774][734]LogAIModule: Creating AISystem for world MainMap
+[2022.09.08-21.50.06:774][734]LogPlayLevel: PIE: World Init took: (0.000487s)
+[2022.09.08-21.50.06:774][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.008801s)
+[2022.09.08-21.50.06:809][734]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.09.08-21.50.06:826][734]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.08-21.50.06:844][734]LogInit: FAudioDevice initialized.
+[2022.09.08-21.50.06:852][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-21.50.06:882][734]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.08-21.50.06:888][734]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.09.09-04.50.06
+[2022.09.08-21.50.06:889][734]LogWorld: Bringing up level for play took: 0.004966
+[2022.09.08-21.50.06:901][734]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.09.08-21.50.06:902][734]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap 0.587
+[2022.09.08-21.50.06:902][734]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.50.13:564][530]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.50.13:564][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-21.50.13:572][530]LogSlate: Window 'Kaset_Fair Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.09.08-21.50.13:618][530]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-21.50.13:618][530]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.50.13:666][530]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.09.08-21.50.13:693][531]LogPlayLevel: Display: Destroying online subsystem :Context_130
+[2022.09.08-21.50.38:426][474]BlueprintLog: New page: Compile BP_PawnBase
+[2022.09.08-21.50.38:593][474]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.09.08-21.50.39:464][570]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.08-21.50.39:480][570]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.50.39:480][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-21.50.39:480][570]PIE: New page: PIE session: MainMap (Sep 9, 2022, 11:50:39 AM)
+[2022.09.08-21.50.39:480][570]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.09.08-21.50.39:487][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007296s)
+[2022.09.08-21.50.39:488][570]LogAIModule: Creating AISystem for world MainMap
+[2022.09.08-21.50.39:488][570]LogPlayLevel: PIE: World Init took: (0.000470s)
+[2022.09.08-21.50.39:488][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.007887s)
+[2022.09.08-21.50.39:524][570]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.09.08-21.50.39:541][570]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.08-21.50.39:560][570]LogInit: FAudioDevice initialized.
+[2022.09.08-21.50.39:569][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-21.50.39:600][570]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.08-21.50.39:607][570]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.09.09-04.50.39
+[2022.09.08-21.50.39:607][570]LogWorld: Bringing up level for play took: 0.005203
+[2022.09.08-21.50.39:619][570]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.09.08-21.50.39:620][570]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap -0.695
+[2022.09.08-21.50.39:621][570]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.50.52:186][ 53]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.50.52:186][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-21.50.52:194][ 53]LogSlate: Window 'Kaset_Fair Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.09.08-21.50.52:245][ 53]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-21.50.52:246][ 53]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.50.52:288][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.09.08-21.50.52:324][ 54]LogPlayLevel: Display: Destroying online subsystem :Context_131
+[2022.09.08-21.50.59:896][944]LogEditorViewport: Clicking on Actor (LMB): BP_InteractiveTeleportPoint_C (BP_InteractiveTeleportPoint13)
+[2022.09.08-21.51.14:962][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-21.51.15:020][706]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.08-21.51.15:027][706]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.51.15:028][706]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-21.51.15:028][706]PIE: New page: PIE session: MainMap (Sep 9, 2022, 11:51:15 AM)
+[2022.09.08-21.51.15:028][706]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.09.08-21.51.15:037][706]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008867s)
+[2022.09.08-21.51.15:037][706]LogAIModule: Creating AISystem for world MainMap
+[2022.09.08-21.51.15:038][706]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2022.09.08-21.51.15:038][706]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.009820s)
+[2022.09.08-21.51.15:077][706]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.09.08-21.51.15:095][706]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.08-21.51.15:116][706]LogInit: FAudioDevice initialized.
+[2022.09.08-21.51.15:148][706]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.08-21.51.15:151][706]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.09.09-04.51.15
+[2022.09.08-21.51.15:152][706]LogWorld: Bringing up level for play took: 0.003017
+[2022.09.08-21.51.15:165][706]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap 0.85
+[2022.09.08-21.51.15:165][706]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.51.55:448][435]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.51.55:448][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-21.51.55:495][435]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-21.51.55:495][435]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.51.55:540][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-21.51.55:545][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.09.08-21.51.55:574][436]LogPlayLevel: Display: Destroying online subsystem :Context_132
+[2022.09.08-21.52.49:590][891]LogEditorViewport: Clicking on Actor (LMB): BP_InteractiveTeleportPoint_C (BP_InteractiveTeleportPoint)
+[2022.09.08-21.53.01:321][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-21.53.01:379][238]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.08-21.53.01:385][238]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.53.01:386][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-21.53.01:386][238]PIE: New page: PIE session: MainMap (Sep 9, 2022, 11:53:01 AM)
+[2022.09.08-21.53.01:386][238]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.09.08-21.53.01:395][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008745s)
+[2022.09.08-21.53.01:395][238]LogAIModule: Creating AISystem for world MainMap
+[2022.09.08-21.53.01:395][238]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2022.09.08-21.53.01:395][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.009592s)
+[2022.09.08-21.53.01:435][238]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.09.08-21.53.01:452][238]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.08-21.53.01:472][238]LogInit: FAudioDevice initialized.
+[2022.09.08-21.53.01:498][238]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.08-21.53.01:502][238]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.09.09-04.53.01
+[2022.09.08-21.53.01:502][238]LogWorld: Bringing up level for play took: 0.002997
+[2022.09.08-21.53.01:515][238]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap -0.8
+[2022.09.08-21.53.01:515][238]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.53.12:687][576]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.53.12:687][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-21.53.12:725][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-21.53.12:726][576]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.53.12:776][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-21.53.12:780][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.09.08-21.53.12:805][577]LogPlayLevel: Display: Destroying online subsystem :Context_133
+[2022.09.08-21.53.15:284][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-21.53.26:662][214]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.08-21.53.26:670][214]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.53.26:670][214]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.09.08-21.53.26:671][214]LogPlayLevel: [PlayLevel] Compiling BP_InteractiveTeleportPoint before play...
+[2022.09.08-21.53.26:863][214]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.09.08-21.53.26:863][214]LogPlayLevel: PlayLevel: Blueprint regeneration took 193 ms (1 blueprints)
+[2022.09.08-21.53.26:864][214]PIE: New page: PIE session: MainMap (Sep 9, 2022, 11:53:26 AM)
+[2022.09.08-21.53.26:864][214]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.09.08-21.53.26:871][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007523s)
+[2022.09.08-21.53.26:872][214]LogAIModule: Creating AISystem for world MainMap
+[2022.09.08-21.53.26:872][214]LogPlayLevel: PIE: World Init took: (0.000542s)
+[2022.09.08-21.53.26:872][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.008201s)
+[2022.09.08-21.53.26:903][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.09.08-21.53.26:920][214]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.08-21.53.26:939][214]LogInit: FAudioDevice initialized.
+[2022.09.08-21.53.26:968][214]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.08-21.53.26:971][214]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.09.09-04.53.26
+[2022.09.08-21.53.26:972][214]LogWorld: Bringing up level for play took: 0.002665
+[2022.09.08-21.53.26:985][214]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap 0.669
+[2022.09.08-21.53.26:985][214]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.53.43:910][242]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.53.43:910][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-21.53.43:954][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-21.53.43:955][242]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-21.53.43:990][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-21.53.43:994][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.09.08-21.53.44:021][243]LogPlayLevel: Display: Destroying online subsystem :Context_134
+[2022.09.08-21.57.23:897][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-21.58.15:947][ 48]LogEditorTransaction: Undo Move Node
+[2022.09.08-21.58.16:848][150]LogEditorTransaction: Undo Split Struct Pin
+[2022.09.08-22.08.07:108][528]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.09.08-22.09.41:157][444]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.09.08-22.09.41:158][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../UE Project/Kaset_Fair/Saved/Autosaves/Game/MainMap_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.09.08-22.09.41:389][444]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/MainMap_Auto57BE4DA734D029E29C9AEC2BA1964F4A0.tmp' to '../../../../../UE Project/Kaset_Fair/Saved/Autosaves/Game/MainMap_Auto5.umap'
+[2022.09.08-22.09.41:392][444]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainMap' took 0.281
+[2022.09.08-22.09.41:392][444]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.281
+[2022.09.08-22.09.41:395][444]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_PawnBase] ([1] browsable assets)...
+[2022.09.08-22.09.41:395][444]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_PawnBase]
+[2022.09.08-22.09.41:395][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PawnBase" FILE="../../../../../UE Project/Kaset_Fair/Saved/Autosaves/Game/BP_PawnBase_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2022.09.08-22.09.43:155][444]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_PawnBase_Auto543F8ABD74339790425B07C81F51F8CF8.tmp' to '../../../../../UE Project/Kaset_Fair/Saved/Autosaves/Game/BP_PawnBase_Auto5.uasset'
+[2022.09.08-22.09.43:157][444]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_InteractiveTeleportPoint] ([1] browsable assets)...
+[2022.09.08-22.09.43:181][444]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_InteractiveTeleportPoint.BP_InteractiveTeleportPoint]
+[2022.09.08-22.09.43:181][444]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_InteractiveTeleportPoint]
+[2022.09.08-22.09.43:181][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_InteractiveTeleportPoint" FILE="../../../../../UE Project/Kaset_Fair/Saved/Autosaves/Game/BP_InteractiveTeleportPoint_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2022.09.08-22.09.43:205][444]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_InteractiveTeleportPoint_Auto23D7E7834FA829862F958E83D6391B8E.tmp' to '../../../../../UE Project/Kaset_Fair/Saved/Autosaves/Game/BP_InteractiveTeleportPoint_Auto5.uasset'
+[2022.09.08-22.09.43:205][444]LogFileHelpers: Auto-saving content packages took 1.810
+[2022.09.08-22.09.45:237][684]BlueprintLog: New page: Compile BP_PawnBase
+[2022.09.08-22.09.45:245][684]LogBlueprint: Error: [Compiler BP_PawnBase] The type of  Object  is undetermined.  Connect something to  Cast To BP_InteractiveBase  to imply a specific type.
+[2022.09.08-22.09.45:246][684]LogBlueprint: Error: [Compiler BP_PawnBase] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2022.09.08-22.09.45:398][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.09.08-22.09.45:430][684]LogBlueprint: Warning: [Compiler BP_PawnBase] [5004.91] Compile of BP_PawnBase failed. 2 Fatal Issue(s) 0 Warning(s) [in 192 ms] (/Game/BP_PawnBase.BP_PawnBase)
+[2022.09.08-22.09.53:910][685]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.09.08-22.09.53:919][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../UE Project/Kaset_Fair/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.08-22.09.53:955][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.09.08-22.09.54:185][685]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/MainMap027BE20E423A03EB6B909FBE8F5EB31B.tmp' to '../../../../../UE Project/Kaset_Fair/Content/MainMap.umap'
+[2022.09.08-22.09.54:207][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap_BuiltData" FILE="../../../../../UE Project/Kaset_Fair/Content/MainMap_BuiltData.uasset" SILENT=true
+[2022.09.08-22.09.54:291][685]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/MainMap_BuiltData379F3E69428A18957C8321BB48F43F9D.tmp' to '../../../../../UE Project/Kaset_Fair/Content/MainMap_BuiltData.uasset'
+[2022.09.08-22.10.01:941][591]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_road_04_quarter2)
+[2022.09.08-22.10.01:985][591]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.09.08-22.10.33:307][206]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/WBP_Timer.WBP_Timer
+[2022.09.08-22.10.33:929][206]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2022.09.08-22.10.47:721][771]LogEditorTransaction: Undo Resize Widget
+[2022.09.08-22.10.53:493][443]LogEditorTransaction: Undo Resize Widget
+[2022.09.08-22.12.15:704][962]LogSlate: Window 'Color Picker' being destroyed
+[2022.09.08-22.12.28:798][516]LogSlate: Window 'Color Picker' being destroyed
+[2022.09.08-22.12.33:273][ 47]BlueprintLog: New page: Compile WBP_Timer
+[2022.09.08-22.12.33:546][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2022.09.08-22.13.43:687][328]BlueprintLog: New page: Compile WBP_Timer
+[2022.09.08-22.13.43:742][328]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2022.09.08-22.20.04:997][419]BlueprintLog: New page: Compile WBP_Timer
+[2022.09.08-22.20.06:710][419]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2022.09.08-22.20.07:450][502]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.08-22.20.07:467][502]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.20.07:467][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-22.20.12:301][502]LogSlate: Window 'Message' being destroyed
+[2022.09.08-22.20.17:046][ 52]BlueprintLog: New page: Compile BP_PawnBase
+[2022.09.08-22.20.17:066][ 52]LogBlueprint: Error: [Compiler BP_PawnBase] The type of  Object  is undetermined.  Connect something to  Cast To BP_InteractiveBase  to imply a specific type.
+[2022.09.08-22.20.17:066][ 52]LogBlueprint: Error: [Compiler BP_PawnBase] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2022.09.08-22.20.17:264][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2022.09.08-22.20.17:310][ 52]LogBlueprint: Warning: [Compiler BP_PawnBase] [5636.79] Compile of BP_PawnBase failed. 2 Fatal Issue(s) 0 Warning(s) [in 264 ms] (/Game/BP_PawnBase.BP_PawnBase)
+[2022.09.08-22.20.27:067][188]BlueprintLog: New page: Compile BP_PawnBase
+[2022.09.08-22.20.27:076][188]LogBlueprint: Error: [Compiler BP_PawnBase] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.09.08-22.20.27:076][188]LogBlueprint: Error: [Compiler BP_PawnBase] The type of  Object  is undetermined.  Connect something to  Cast To BP_InteractiveBase  to imply a specific type.
+[2022.09.08-22.20.27:077][188]LogBlueprint: Error: [Compiler BP_PawnBase] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2022.09.08-22.20.27:268][188]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2022.09.08-22.20.27:311][188]LogBlueprint: Warning: [Compiler BP_PawnBase] [5646.79] Compile of BP_PawnBase failed. 3 Fatal Issue(s) 0 Warning(s) [in 243 ms] (/Game/BP_PawnBase.BP_PawnBase)
+[2022.09.08-22.20.32:159][749]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.09.08-22.21.04:584][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_GameMode" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_GameMode.uasset" SILENT=true
+[2022.09.08-22.21.04:590][571]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_GameMode2A42BD7E443CD1D2480337B78D31C05C.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_GameMode.uasset'
+[2022.09.08-22.21.04:598][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_InteractiveBase" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveBase.uasset" SILENT=true
+[2022.09.08-22.21.04:607][571]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_InteractiveBase103E2E7F42AE71F673A99EAC307224D5.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveBase.uasset'
+[2022.09.08-22.21.04:613][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_InteractiveCube" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveCube.uasset" SILENT=true
+[2022.09.08-22.21.04:629][571]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_InteractiveCube164A5B2641261E35516C46B85DD1ABAE.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveCube.uasset'
+[2022.09.08-22.21.04:645][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_InteractiveTeleportPoint" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveTeleportPoint.uasset" SILENT=true
+[2022.09.08-22.21.05:049][571]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_InteractiveTeleportPoint18351C6B4EBC09F931A4F4850729CA5E.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveTeleportPoint.uasset'
+[2022.09.08-22.21.05:057][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PawnBase" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_PawnBase.uasset" SILENT=true
+[2022.09.08-22.21.05:104][571]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_PawnBase69388BD04713D697080296897B86B74E.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_PawnBase.uasset'
+[2022.09.08-22.21.05:111][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../UE Project/Kaset_Fair/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.08-22.21.05:157][571]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2022.09.08-22.21.05:409][571]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/MainMap08A348834BF75497609E69837A981479.tmp' to '../../../../../UE Project/Kaset_Fair/Content/MainMap.umap'
+[2022.09.08-22.21.05:425][571]LogFileHelpers: Saving map 'MainMap' took 0.314
+[2022.09.08-22.21.05:429][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap_BuiltData" FILE="../../../../../UE Project/Kaset_Fair/Content/MainMap_BuiltData.uasset" SILENT=true
+[2022.09.08-22.21.05:492][571]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/MainMap_BuiltDataC6550F674482509FB4EA86AFE9D2D07A.tmp' to '../../../../../UE Project/Kaset_Fair/Content/MainMap_BuiltData.uasset'
+[2022.09.08-22.21.05:499][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_Timer" FILE="../../../../../UE Project/Kaset_Fair/Content/WBP_Timer.uasset" SILENT=true
+[2022.09.08-22.21.05:513][571]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/WBP_TimerEB21883F48B612F6684774BFAC0980BB.tmp' to '../../../../../UE Project/Kaset_Fair/Content/WBP_Timer.uasset'
+[2022.09.08-22.21.11:650][277]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.09.08-22.21.38:325][ 81]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.09.08-22.21.50:576][515]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Time_Actor.Time_Actor
+[2022.09.08-22.24.16:173][541]BlueprintLog: New page: Compile Time_Actor
+[2022.09.08-22.24.16:379][541]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2022.09.08-22.24.17:586][682]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.08-22.24.17:602][682]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.24.17:602][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-22.24.19:316][682]LogSlate: Window 'Message' being destroyed
+[2022.09.08-22.24.22:314][ 22]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.09.08-22.24.30:779][ 15]BlueprintLog: New page: Compile BP_PawnBase
+[2022.09.08-22.24.30:801][ 15]LogBlueprint: Error: [Compiler BP_PawnBase] The type of  Object  is undetermined.  Connect something to  Cast To BP_InteractiveBase  to imply a specific type.
+[2022.09.08-22.24.30:802][ 15]LogBlueprint: Error: [Compiler BP_PawnBase] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2022.09.08-22.24.30:996][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.09.08-22.24.31:037][ 15]LogBlueprint: Warning: [Compiler BP_PawnBase] [5890.52] Compile of BP_PawnBase failed. 2 Fatal Issue(s) 0 Warning(s) [in 257 ms] (/Game/BP_PawnBase.BP_PawnBase)
+[2022.09.08-22.25.07:519][360]BlueprintLog: New page: Compile BP_PawnBase
+[2022.09.08-22.25.07:528][360]LogBlueprint: Error: [Compiler BP_PawnBase] The type of  Object  is undetermined.  Connect something to  Cast To BP_InteractiveBase  to imply a specific type.
+[2022.09.08-22.25.07:529][360]LogBlueprint: Error: [Compiler BP_PawnBase] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2022.09.08-22.25.07:727][360]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2022.09.08-22.25.07:770][360]LogBlueprint: Warning: [Compiler BP_PawnBase] [5927.25] Compile of BP_PawnBase failed. 2 Fatal Issue(s) 0 Warning(s) [in 250 ms] (/Game/BP_PawnBase.BP_PawnBase)
+[2022.09.08-22.25.26:422][580]BlueprintLog: New page: Compile BP_PawnBase
+[2022.09.08-22.25.26:634][580]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2022.09.08-22.25.29:229][866]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.08-22.25.29:262][866]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.25.29:262][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-22.25.29:262][866]PIE: New page: PIE session: MainMap (Sep 9, 2022, 12:25:29 PM)
+[2022.09.08-22.25.29:263][866]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.09.08-22.25.29:270][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007229s)
+[2022.09.08-22.25.29:270][866]LogAIModule: Creating AISystem for world MainMap
+[2022.09.08-22.25.29:271][866]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2022.09.08-22.25.29:271][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.008036s)
+[2022.09.08-22.25.29:315][866]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.09.08-22.25.29:334][866]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.08-22.25.29:354][866]LogInit: FAudioDevice initialized.
+[2022.09.08-22.25.29:384][866]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.08-22.25.29:387][866]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.09.09-05.25.29
+[2022.09.08-22.25.29:388][866]LogWorld: Bringing up level for play took: 0.002796
+[2022.09.08-22.25.29:401][866]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap 1.085
+[2022.09.08-22.25.29:401][866]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.25.50:446][382]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.25.50:446][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-22.25.50:486][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-22.25.50:487][382]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.25.50:531][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-22.25.50:536][382]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.09.08-22.25.50:564][383]LogPlayLevel: Display: Destroying online subsystem :Context_138
+[2022.09.08-22.25.51:132][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-22.25.52:247][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_GameMode" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_GameMode.uasset" SILENT=true
+[2022.09.08-22.25.52:253][582]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_GameModeAEB397404EF32571AC2F0A85F5AF773B.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_GameMode.uasset'
+[2022.09.08-22.25.52:259][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_InteractiveBase" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveBase.uasset" SILENT=true
+[2022.09.08-22.25.52:267][582]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_InteractiveBase5B931AAB4EA13BC807B3C7814DC2E698.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveBase.uasset'
+[2022.09.08-22.25.52:274][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_InteractiveCube" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveCube.uasset" SILENT=true
+[2022.09.08-22.25.52:288][582]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_InteractiveCubeA95039E74BBDD3DB84B93B833CBC1486.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveCube.uasset'
+[2022.09.08-22.25.52:304][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_InteractiveTeleportPoint" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveTeleportPoint.uasset" SILENT=true
+[2022.09.08-22.25.52:326][582]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_InteractiveTeleportPoint44FA28974DF18775172A3BB85D292E7F.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveTeleportPoint.uasset'
+[2022.09.08-22.25.52:332][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PawnBase" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_PawnBase.uasset" SILENT=true
+[2022.09.08-22.25.52:380][582]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_PawnBase61C7D4A24F4A6175171FE9B83B7BE78A.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_PawnBase.uasset'
+[2022.09.08-22.25.52:387][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../UE Project/Kaset_Fair/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.08-22.25.52:431][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.09.08-22.25.52:690][582]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/MainMapFF03BA244FC47B31EB71A384B8F0F7B5.tmp' to '../../../../../UE Project/Kaset_Fair/Content/MainMap.umap'
+[2022.09.08-22.25.52:705][582]LogFileHelpers: Saving map 'MainMap' took 0.319
+[2022.09.08-22.25.52:710][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap_BuiltData" FILE="../../../../../UE Project/Kaset_Fair/Content/MainMap_BuiltData.uasset" SILENT=true
+[2022.09.08-22.25.52:771][582]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/MainMap_BuiltData6535D0744154302A6E8BD7B0E5184E2F.tmp' to '../../../../../UE Project/Kaset_Fair/Content/MainMap_BuiltData.uasset'
+[2022.09.08-22.25.52:778][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Time_Actor" FILE="../../../../../UE Project/Kaset_Fair/Content/Time_Actor.uasset" SILENT=true
+[2022.09.08-22.25.52:788][582]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/Time_ActorCE69027240C85962AB4134BB61853F56.tmp' to '../../../../../UE Project/Kaset_Fair/Content/Time_Actor.uasset'
+[2022.09.08-22.25.52:795][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_Timer" FILE="../../../../../UE Project/Kaset_Fair/Content/WBP_Timer.uasset" SILENT=true
+[2022.09.08-22.25.52:809][582]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/WBP_Timer0A39F9E44EE92C3EEF123FA04C1BA227.tmp' to '../../../../../UE Project/Kaset_Fair/Content/WBP_Timer.uasset'
+[2022.09.08-22.25.58:366][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-22.26.08:251][414]BlueprintLog: New page: Compile Time_Actor
+[2022.09.08-22.26.08:446][414]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.09.08-22.26.29:792][939]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.09.08-22.26.34:024][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-22.26.34:065][440]BlueprintLog: New page: Compile Time_Actor
+[2022.09.08-22.26.34:263][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.09.08-22.26.35:617][590]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.08-22.26.35:632][590]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.26.35:632][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-22.26.35:632][590]PIE: New page: PIE session: MainMap (Sep 9, 2022, 12:26:35 PM)
+[2022.09.08-22.26.35:632][590]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.09.08-22.26.35:639][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007035s)
+[2022.09.08-22.26.35:640][590]LogAIModule: Creating AISystem for world MainMap
+[2022.09.08-22.26.35:640][590]LogPlayLevel: PIE: World Init took: (0.000507s)
+[2022.09.08-22.26.35:640][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.007680s)
+[2022.09.08-22.26.35:682][590]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.09.08-22.26.35:699][590]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.08-22.26.35:718][590]LogInit: FAudioDevice initialized.
+[2022.09.08-22.26.35:727][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-22.26.35:755][590]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.08-22.26.35:758][590]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.09.09-05.26.35
+[2022.09.08-22.26.35:759][590]LogWorld: Bringing up level for play took: 0.002880
+[2022.09.08-22.26.35:771][590]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.09.08-22.26.35:772][590]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap -0.543
+[2022.09.08-22.26.35:773][590]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.26.51:080][409]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.26.51:080][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-22.26.51:088][409]LogSlate: Window 'Kaset_Fair Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.09.08-22.26.51:130][409]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-22.26.51:131][409]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.26.51:192][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.09.08-22.26.51:210][410]LogPlayLevel: Display: Destroying online subsystem :Context_139
+[2022.09.08-22.27.24:931][391]BlueprintLog: New page: Compile BP_PawnBase
+[2022.09.08-22.27.25:143][391]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.09.08-22.27.26:030][487]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.08-22.27.26:058][487]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.27.26:058][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-22.27.26:058][487]PIE: New page: PIE session: MainMap (Sep 9, 2022, 12:27:26 PM)
+[2022.09.08-22.27.26:059][487]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.09.08-22.27.26:066][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007370s)
+[2022.09.08-22.27.26:066][487]LogAIModule: Creating AISystem for world MainMap
+[2022.09.08-22.27.26:067][487]LogPlayLevel: PIE: World Init took: (0.000583s)
+[2022.09.08-22.27.26:067][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.008104s)
+[2022.09.08-22.27.26:115][487]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2022.09.08-22.27.26:132][487]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.08-22.27.26:151][487]LogInit: FAudioDevice initialized.
+[2022.09.08-22.27.26:159][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-22.27.26:187][487]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.08-22.27.26:191][487]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.09.09-05.27.26
+[2022.09.08-22.27.26:191][487]LogWorld: Bringing up level for play took: 0.003115
+[2022.09.08-22.27.26:203][487]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.09.08-22.27.26:205][487]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap -0.111
+[2022.09.08-22.27.26:205][487]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.27.26:972][574]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_PawnBase_4)
+[2022.09.08-22.27.27:223][604]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_PawnBase_4)
+[2022.09.08-22.27.30:714][ 20]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_PawnBase_4)
+[2022.09.08-22.27.32:911][282]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_PawnBase_4)
+[2022.09.08-22.27.33:612][366]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_PawnBase_4)
+[2022.09.08-22.27.36:590][723]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.27.36:590][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-22.27.36:598][723]LogSlate: Window 'Kaset_Fair Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.09.08-22.27.36:648][723]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-22.27.36:649][723]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.27.36:700][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.09.08-22.27.36:735][724]LogPlayLevel: Display: Destroying online subsystem :Context_140
+[2022.09.08-22.27.39:941][108]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.08-22.27.39:956][108]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.27.39:956][108]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-22.27.39:956][108]PIE: New page: PIE session: MainMap (Sep 9, 2022, 12:27:39 PM)
+[2022.09.08-22.27.39:956][108]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.09.08-22.27.39:963][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007322s)
+[2022.09.08-22.27.39:964][108]LogAIModule: Creating AISystem for world MainMap
+[2022.09.08-22.27.39:964][108]LogPlayLevel: PIE: World Init took: (0.000516s)
+[2022.09.08-22.27.39:964][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.008008s)
+[2022.09.08-22.27.40:005][108]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.09.08-22.27.40:021][108]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.08-22.27.40:040][108]LogInit: FAudioDevice initialized.
+[2022.09.08-22.27.40:048][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-22.27.40:082][108]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.08-22.27.40:085][108]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.09.09-05.27.40
+[2022.09.08-22.27.40:086][108]LogWorld: Bringing up level for play took: 0.003093
+[2022.09.08-22.27.40:098][108]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.09.08-22.27.40:100][108]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap -0.215
+[2022.09.08-22.27.40:100][108]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.27.42:481][299]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_PawnBase_4)
+[2022.09.08-22.27.47:375][885]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_PawnBase_4)
+[2022.09.08-22.27.47:843][941]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_PawnBase_4)
+[2022.09.08-22.27.49:312][117]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_PawnBase_4)
+[2022.09.08-22.27.52:229][466]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.27.52:229][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-22.27.52:237][466]LogSlate: Window 'Kaset_Fair Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.09.08-22.27.52:292][466]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-22.27.52:293][466]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.27.52:345][466]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.09.08-22.27.52:389][467]LogPlayLevel: Display: Destroying online subsystem :Context_141
+[2022.09.08-22.28.07:202][208]BlueprintLog: New page: Compile BP_PawnBase
+[2022.09.08-22.28.07:412][208]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.09.08-22.28.08:425][312]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.08-22.28.08:452][312]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.28.08:452][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-22.28.08:452][312]PIE: New page: PIE session: MainMap (Sep 9, 2022, 12:28:08 PM)
+[2022.09.08-22.28.08:452][312]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.09.08-22.28.08:459][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007251s)
+[2022.09.08-22.28.08:460][312]LogAIModule: Creating AISystem for world MainMap
+[2022.09.08-22.28.08:460][312]LogPlayLevel: PIE: World Init took: (0.000509s)
+[2022.09.08-22.28.08:460][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.007917s)
+[2022.09.08-22.28.08:508][312]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.09.08-22.28.08:525][312]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.08-22.28.08:545][312]LogInit: FAudioDevice initialized.
+[2022.09.08-22.28.08:555][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-22.28.08:583][312]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.08-22.28.08:587][312]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.09.09-05.28.08
+[2022.09.08-22.28.08:587][312]LogWorld: Bringing up level for play took: 0.003258
+[2022.09.08-22.28.08:599][312]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.09.08-22.28.08:600][312]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap 0.285
+[2022.09.08-22.28.08:601][312]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.28.09:770][435]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_PawnBase_4)
+[2022.09.08-22.28.12:335][717]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_PawnBase_4)
+[2022.09.08-22.28.13:754][872]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_PawnBase_4)
+[2022.09.08-22.28.14:112][910]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_PawnBase_4)
+[2022.09.08-22.28.15:479][ 50]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_PawnBase_4)
+[2022.09.08-22.28.16:179][127]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_PawnBase_4)
+[2022.09.08-22.28.17:397][263]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_PawnBase_4)
+[2022.09.08-22.28.19:082][451]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_PawnBase_4)
+[2022.09.08-22.28.20:187][574]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.09.08-22.28.22:913][758]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_PawnBase_4)
+[2022.09.08-22.28.24:144][895]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_PawnBase_4)
+[2022.09.08-22.28.27:798][301]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_PawnBase_4)
+[2022.09.08-22.28.31:537][726]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.28.31:537][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-22.28.31:544][726]LogSlate: Window 'Kaset_Fair Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.09.08-22.28.31:596][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-22.28.31:597][726]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.28.31:647][726]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.09.08-22.28.31:688][727]LogPlayLevel: Display: Destroying online subsystem :Context_142
+[2022.09.08-22.29.06:767][900]BlueprintLog: New page: Compile BP_PawnBase
+[2022.09.08-22.29.06:973][900]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.09.08-22.29.11:248][391]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.08-22.29.11:275][391]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.29.11:275][391]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-22.29.11:275][391]PIE: New page: PIE session: MainMap (Sep 9, 2022, 12:29:11 PM)
+[2022.09.08-22.29.11:275][391]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.09.08-22.29.11:283][391]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007476s)
+[2022.09.08-22.29.11:283][391]LogAIModule: Creating AISystem for world MainMap
+[2022.09.08-22.29.11:283][391]LogPlayLevel: PIE: World Init took: (0.000471s)
+[2022.09.08-22.29.11:283][391]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.008076s)
+[2022.09.08-22.29.11:327][391]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.09.08-22.29.11:344][391]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.08-22.29.11:363][391]LogInit: FAudioDevice initialized.
+[2022.09.08-22.29.11:372][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-22.29.11:403][391]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.08-22.29.11:410][391]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.09.09-05.29.11
+[2022.09.08-22.29.11:411][391]LogWorld: Bringing up level for play took: 0.005948
+[2022.09.08-22.29.11:423][391]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.09.08-22.29.11:425][391]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap 1.11
+[2022.09.08-22.29.11:426][391]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.29.13:775][565]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.23:434][587]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.26:253][880]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.27:279][988]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.28:251][ 90]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.29:248][196]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.30:184][294]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.31:872][473]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.33:365][631]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.34:636][764]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.35:941][900]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.37:772][ 94]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.38:274][148]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.38:774][201]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.39:268][253]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.39:773][307]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.40:266][359]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.40:768][412]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.41:269][465]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.41:774][518]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.42:266][571]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.42:774][625]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.43:271][678]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.43:774][731]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.44:273][784]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.44:773][838]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.45:271][891]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.45:769][944]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.46:273][998]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.46:776][ 51]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.47:271][104]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.47:769][158]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.48:269][212]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.48:763][265]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.52:404][649]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.29.53:409][755]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.29.53:409][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-22.29.53:417][755]LogSlate: Window 'Kaset_Fair Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.09.08-22.29.53:479][755]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-22.29.53:479][755]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.29.53:534][755]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2022.09.08-22.29.53:576][756]LogPlayLevel: Display: Destroying online subsystem :Context_143
+[2022.09.08-22.30.00:095][525]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.08-22.30.00:110][525]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.30.00:110][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-22.30.00:110][525]PIE: New page: PIE session: MainMap (Sep 9, 2022, 12:30:00 PM)
+[2022.09.08-22.30.00:110][525]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.09.08-22.30.00:117][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006979s)
+[2022.09.08-22.30.00:118][525]LogAIModule: Creating AISystem for world MainMap
+[2022.09.08-22.30.00:118][525]LogPlayLevel: PIE: World Init took: (0.000523s)
+[2022.09.08-22.30.00:118][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.007626s)
+[2022.09.08-22.30.00:161][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.09.08-22.30.00:178][525]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.08-22.30.00:197][525]LogInit: FAudioDevice initialized.
+[2022.09.08-22.30.00:205][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-22.30.00:235][525]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.08-22.30.00:239][525]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.09.09-05.30.00
+[2022.09.08-22.30.00:239][525]LogWorld: Bringing up level for play took: 0.002891
+[2022.09.08-22.30.00:253][525]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.09.08-22.30.00:259][525]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap -0.056
+[2022.09.08-22.30.00:260][525]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.30.03:604][881]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.30.11:844][835]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.30.17:248][458]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.30.21:154][910]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.30.25:182][376]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.30.28:828][801]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.30.28:829][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-22.30.28:836][801]LogSlate: Window 'Kaset_Fair Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.09.08-22.30.28:892][801]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-22.30.28:893][801]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.30.28:945][801]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.09.08-22.30.28:988][802]LogPlayLevel: Display: Destroying online subsystem :Context_144
+[2022.09.08-22.30.57:543][173]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.08-22.30.57:558][173]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.30.57:558][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-22.30.57:558][173]PIE: New page: PIE session: MainMap (Sep 9, 2022, 12:30:57 PM)
+[2022.09.08-22.30.57:559][173]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.09.08-22.30.57:566][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007405s)
+[2022.09.08-22.30.57:566][173]LogAIModule: Creating AISystem for world MainMap
+[2022.09.08-22.30.57:567][173]LogPlayLevel: PIE: World Init took: (0.000498s)
+[2022.09.08-22.30.57:567][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.008041s)
+[2022.09.08-22.30.57:608][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.09.08-22.30.57:624][173]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.08-22.30.57:643][173]LogInit: FAudioDevice initialized.
+[2022.09.08-22.30.57:652][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-22.30.57:685][173]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.08-22.30.57:689][173]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.09.09-05.30.57
+[2022.09.08-22.30.57:690][173]LogWorld: Bringing up level for play took: 0.003921
+[2022.09.08-22.30.57:702][173]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.09.08-22.30.57:704][173]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap -0.611
+[2022.09.08-22.30.57:704][173]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.31.00:515][395]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.31.03:068][661]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.31.03:068][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-22.31.03:076][661]LogSlate: Window 'Kaset_Fair Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.09.08-22.31.03:148][661]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-22.31.03:149][661]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.31.03:212][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.09.08-22.31.03:254][662]LogPlayLevel: Display: Destroying online subsystem :Context_145
+[2022.09.08-22.31.08:405][260]BlueprintLog: New page: Compile BP_PawnBase
+[2022.09.08-22.31.08:618][260]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.09.08-22.31.09:812][392]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.08-22.31.09:842][392]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.31.09:842][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-22.31.09:842][392]PIE: New page: PIE session: MainMap (Sep 9, 2022, 12:31:09 PM)
+[2022.09.08-22.31.09:842][392]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.09.08-22.31.09:849][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007136s)
+[2022.09.08-22.31.09:849][392]LogAIModule: Creating AISystem for world MainMap
+[2022.09.08-22.31.09:850][392]LogPlayLevel: PIE: World Init took: (0.000486s)
+[2022.09.08-22.31.09:850][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.007747s)
+[2022.09.08-22.31.09:895][392]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2022.09.08-22.31.09:911][392]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.08-22.31.09:930][392]LogInit: FAudioDevice initialized.
+[2022.09.08-22.31.09:940][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-22.31.09:971][392]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.08-22.31.09:975][392]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.09.09-05.31.09
+[2022.09.08-22.31.09:975][392]LogWorld: Bringing up level for play took: 0.003287
+[2022.09.08-22.31.09:988][392]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.09.08-22.31.09:989][392]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap -0.326
+[2022.09.08-22.31.09:990][392]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.31.11:438][552]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.31.11:438][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-22.31.11:446][552]LogSlate: Window 'Kaset_Fair Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.09.08-22.31.11:501][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-22.31.11:502][552]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.31.11:550][552]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.09.08-22.31.11:593][553]LogPlayLevel: Display: Destroying online subsystem :Context_146
+[2022.09.08-22.31.13:237][749]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.08-22.31.13:252][749]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.31.13:252][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-22.31.13:252][749]PIE: New page: PIE session: MainMap (Sep 9, 2022, 12:31:13 PM)
+[2022.09.08-22.31.13:252][749]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.09.08-22.31.13:260][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007351s)
+[2022.09.08-22.31.13:260][749]LogAIModule: Creating AISystem for world MainMap
+[2022.09.08-22.31.13:260][749]LogPlayLevel: PIE: World Init took: (0.000545s)
+[2022.09.08-22.31.13:260][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.008039s)
+[2022.09.08-22.31.13:303][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.09.08-22.31.13:319][749]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.08-22.31.13:338][749]LogInit: FAudioDevice initialized.
+[2022.09.08-22.31.13:346][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-22.31.13:378][749]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.08-22.31.13:381][749]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.09.09-05.31.13
+[2022.09.08-22.31.13:382][749]LogWorld: Bringing up level for play took: 0.003007
+[2022.09.08-22.31.13:394][749]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.09.08-22.31.13:396][749]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap 1.08
+[2022.09.08-22.31.13:396][749]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.31.23:500][869]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.31.23:501][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-22.31.23:509][869]LogSlate: Window 'Kaset_Fair Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.09.08-22.31.23:574][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-22.31.23:574][869]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.31.23:626][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.09.08-22.31.23:668][870]LogPlayLevel: Display: Destroying online subsystem :Context_147
+[2022.09.08-22.31.27:388][305]BlueprintLog: New page: Compile BP_PawnBase
+[2022.09.08-22.31.27:600][305]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.09.08-22.31.29:009][462]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.08-22.31.29:040][462]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.31.29:040][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-22.31.29:040][462]PIE: New page: PIE session: MainMap (Sep 9, 2022, 12:31:29 PM)
+[2022.09.08-22.31.29:041][462]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.09.08-22.31.29:048][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007064s)
+[2022.09.08-22.31.29:048][462]LogAIModule: Creating AISystem for world MainMap
+[2022.09.08-22.31.29:048][462]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2022.09.08-22.31.29:048][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.007828s)
+[2022.09.08-22.31.29:093][462]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.09.08-22.31.29:110][462]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.08-22.31.29:130][462]LogInit: FAudioDevice initialized.
+[2022.09.08-22.31.29:139][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-22.31.29:172][462]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.08-22.31.29:175][462]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.09.09-05.31.29
+[2022.09.08-22.31.29:176][462]LogWorld: Bringing up level for play took: 0.002932
+[2022.09.08-22.31.29:188][462]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.09.08-22.31.29:189][462]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap 0.874
+[2022.09.08-22.31.29:190][462]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.31.31:857][689]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.31.31:918][696]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.31.38:827][513]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.31.41:097][782]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.31.44:136][141]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.31.48:597][667]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.31.50:708][917]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.31.52:601][139]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.31.54:715][388]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.31.55:855][522]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Interaction) or object (BP_PawnBase_4)
+[2022.09.08-22.31.56:370][583]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.31.56:370][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-22.31.56:378][583]LogSlate: Window 'Kaset_Fair Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.09.08-22.31.56:434][583]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-22.31.56:435][583]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.31.56:485][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.09.08-22.31.56:527][584]LogPlayLevel: Display: Destroying online subsystem :Context_148
+[2022.09.08-22.32.41:499][891]BlueprintLog: New page: Compile BP_PawnBase
+[2022.09.08-22.32.41:713][891]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.09.08-22.32.42:972][ 27]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.08-22.32.43:002][ 27]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.32.43:002][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-22.32.43:002][ 27]PIE: New page: PIE session: MainMap (Sep 9, 2022, 12:32:43 PM)
+[2022.09.08-22.32.43:002][ 27]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.09.08-22.32.43:010][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007198s)
+[2022.09.08-22.32.43:010][ 27]LogAIModule: Creating AISystem for world MainMap
+[2022.09.08-22.32.43:010][ 27]LogPlayLevel: PIE: World Init took: (0.000576s)
+[2022.09.08-22.32.43:010][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.007913s)
+[2022.09.08-22.32.43:053][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2022.09.08-22.32.43:070][ 27]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.08-22.32.43:088][ 27]LogInit: FAudioDevice initialized.
+[2022.09.08-22.32.43:098][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-22.32.43:136][ 27]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.08-22.32.43:143][ 27]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.09.09-05.32.43
+[2022.09.08-22.32.43:144][ 27]LogWorld: Bringing up level for play took: 0.006723
+[2022.09.08-22.32.43:157][ 27]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.09.08-22.32.43:159][ 27]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap 0.843
+[2022.09.08-22.32.43:159][ 27]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.33.05:463][509]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.33.05:463][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-22.33.05:471][509]LogSlate: Window 'Kaset_Fair Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.09.08-22.33.05:538][509]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-22.33.05:539][509]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.33.05:598][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.09.08-22.33.05:641][510]LogPlayLevel: Display: Destroying online subsystem :Context_149
+[2022.09.08-22.33.15:961][718]LogEditorViewport: Clicking on Actor (LMB): BP_InteractiveCube_C (BP_InteractiveCube)
+[2022.09.08-22.33.16:726][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-22.33.25:847][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-22.33.38:618][219]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Meshes/StaticMesh.StaticMesh
+[2022.09.08-22.33.44:826][902]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Meshes/StaticMesh1.StaticMesh1
+[2022.09.08-22.33.50:318][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../UE Project/Kaset_Fair/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.08-22.33.50:362][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.09.08-22.33.50:625][425]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/MainMapCDC9DD804EA06BBE9F8E34A450998E65.tmp' to '../../../../../UE Project/Kaset_Fair/Content/MainMap.umap'
+[2022.09.08-22.33.50:641][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap_BuiltData" FILE="../../../../../UE Project/Kaset_Fair/Content/MainMap_BuiltData.uasset" SILENT=true
+[2022.09.08-22.33.50:749][425]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/MainMap_BuiltData546804CF461185A04643FE846B644677.tmp' to '../../../../../UE Project/Kaset_Fair/Content/MainMap_BuiltData.uasset'
+[2022.09.08-22.33.53:499][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_GameMode" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_GameMode.uasset" SILENT=true
+[2022.09.08-22.33.53:506][642]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_GameMode2BF4CF6E4F3839C8E166A58D7045148B.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_GameMode.uasset'
+[2022.09.08-22.33.53:512][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_InteractiveBase" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveBase.uasset" SILENT=true
+[2022.09.08-22.33.53:521][642]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_InteractiveBaseCBB758004A00BB7E92C7FE868D18B554.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveBase.uasset'
+[2022.09.08-22.33.53:527][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_InteractiveCube" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveCube.uasset" SILENT=true
+[2022.09.08-22.33.53:542][642]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_InteractiveCube083EE50940EF0693C5BAEC84692A66C8.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveCube.uasset'
+[2022.09.08-22.33.53:559][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_InteractiveTeleportPoint" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveTeleportPoint.uasset" SILENT=true
+[2022.09.08-22.33.53:622][642]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_InteractiveTeleportPoint687C41CA46EB440E59219EBE06E2AACB.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveTeleportPoint.uasset'
+[2022.09.08-22.33.53:630][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PawnBase" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_PawnBase.uasset" SILENT=true
+[2022.09.08-22.33.53:679][642]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_PawnBase617C24E54904693110C42E8007D3DC61.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_PawnBase.uasset'
+[2022.09.08-22.33.53:687][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../UE Project/Kaset_Fair/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.08-22.33.53:740][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.09.08-22.33.53:999][642]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/MainMap4780E62A4FD60E133000E1AA70266B00.tmp' to '../../../../../UE Project/Kaset_Fair/Content/MainMap.umap'
+[2022.09.08-22.33.54:014][642]LogFileHelpers: Saving map 'MainMap' took 0.327
+[2022.09.08-22.33.54:018][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap_BuiltData" FILE="../../../../../UE Project/Kaset_Fair/Content/MainMap_BuiltData.uasset" SILENT=true
+[2022.09.08-22.33.54:078][642]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/MainMap_BuiltData68C6D9FE4CD38A2BC3BAF38073939130.tmp' to '../../../../../UE Project/Kaset_Fair/Content/MainMap_BuiltData.uasset'
+[2022.09.08-22.33.54:085][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Time_Actor" FILE="../../../../../UE Project/Kaset_Fair/Content/Time_Actor.uasset" SILENT=true
+[2022.09.08-22.33.54:097][642]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/Time_ActorA398E68448CB3CC0629827B906201C87.tmp' to '../../../../../UE Project/Kaset_Fair/Content/Time_Actor.uasset'
+[2022.09.08-22.33.54:103][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_Timer" FILE="../../../../../UE Project/Kaset_Fair/Content/WBP_Timer.uasset" SILENT=true
+[2022.09.08-22.33.54:117][642]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/WBP_Timer64A1CEAD43908D5B4DE7E68D1908D665.tmp' to '../../../../../UE Project/Kaset_Fair/Content/WBP_Timer.uasset'
+[2022.09.08-22.33.57:433][941]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.08-22.33.57:449][941]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.33.57:449][941]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-22.33.57:449][941]PIE: New page: PIE session: MainMap (Sep 9, 2022, 12:33:57 PM)
+[2022.09.08-22.33.57:449][941]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.09.08-22.33.57:457][941]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007678s)
+[2022.09.08-22.33.57:457][941]LogAIModule: Creating AISystem for world MainMap
+[2022.09.08-22.33.57:458][941]LogPlayLevel: PIE: World Init took: (0.000562s)
+[2022.09.08-22.33.57:458][941]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.008388s)
+[2022.09.08-22.33.57:501][941]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.09.08-22.33.57:519][941]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.08-22.33.57:539][941]LogInit: FAudioDevice initialized.
+[2022.09.08-22.33.57:577][941]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.08-22.33.57:593][941]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.09.09-05.33.57
+[2022.09.08-22.33.57:594][941]LogWorld: Bringing up level for play took: 0.013260
+[2022.09.08-22.33.57:608][941]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap -0.707
+[2022.09.08-22.33.57:609][941]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.34.11:055][548]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.34.11:055][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-22.34.11:110][548]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-22.34.11:110][548]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.34.11:157][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-22.34.11:162][548]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.09.08-22.34.11:189][549]LogPlayLevel: Display: Destroying online subsystem :Context_152
+[2022.09.08-22.34.15:202][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.08-22.34.45:792][272]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.08-22.34.45:806][272]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.34.45:806][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-22.34.45:807][272]PIE: New page: PIE session: MainMap (Sep 9, 2022, 12:34:45 PM)
+[2022.09.08-22.34.45:807][272]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.09.08-22.34.45:814][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007376s)
+[2022.09.08-22.34.45:815][272]LogAIModule: Creating AISystem for world MainMap
+[2022.09.08-22.34.45:815][272]LogPlayLevel: PIE: World Init took: (0.000516s)
+[2022.09.08-22.34.45:815][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.008034s)
+[2022.09.08-22.34.45:863][272]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.09.08-22.34.45:880][272]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.08-22.34.45:900][272]LogInit: FAudioDevice initialized.
+[2022.09.08-22.34.45:909][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-22.34.45:946][272]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.08-22.34.45:950][272]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.09.09-05.34.45
+[2022.09.08-22.34.45:951][272]LogWorld: Bringing up level for play took: 0.004134
+[2022.09.08-22.34.45:963][272]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.09.08-22.34.45:965][272]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap -0.35
+[2022.09.08-22.34.45:966][272]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.35.55:383][109]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.35.55:383][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-22.35.55:391][109]LogSlate: Window 'Kaset_Fair Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.09.08-22.35.55:452][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-22.35.55:453][109]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/MainMap.MainMap_C' with ClassGeneratedBy '/Game/MainMap.MainMap:PersistentLevel.MainMap'
+[2022.09.08-22.35.55:508][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.09.08-22.35.55:551][110]LogPlayLevel: Display: Destroying online subsystem :Context_153
+[2022.09.08-22.45.17:088][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.09.08-22.45.17:088][300]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainMap' took 0.053
+[2022.09.08-22.45.17:090][300]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/StaticMesh] ([1] browsable assets)...
+[2022.09.08-22.45.17:090][300]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/StaticMesh]
+[2022.09.08-22.45.17:090][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/StaticMesh" FILE="../../../../../UE Project/Kaset_Fair/Saved/Autosaves/Game/Meshes/StaticMesh_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2022.09.08-22.45.18:754][300]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/StaticMesh_Auto6B75A596749AA19CB37CB13BC7063A860.tmp' to '../../../../../UE Project/Kaset_Fair/Saved/Autosaves/Game/Meshes/StaticMesh_Auto6.uasset'
+[2022.09.08-22.45.18:755][300]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/StaticMesh1] ([1] browsable assets)...
+[2022.09.08-22.45.18:755][300]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/StaticMesh1]
+[2022.09.08-22.45.18:755][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/StaticMesh1" FILE="../../../../../UE Project/Kaset_Fair/Saved/Autosaves/Game/Meshes/StaticMesh1_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2022.09.08-22.45.18:760][300]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/StaticMesh1_Auto6807B3B5D4F82E892D690E7B10640AF0C.tmp' to '../../../../../UE Project/Kaset_Fair/Saved/Autosaves/Game/Meshes/StaticMesh1_Auto6.uasset'
+[2022.09.08-22.45.18:760][300]LogFileHelpers: Auto-saving content packages took 1.672
+[2022.09.08-22.45.28:456][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_GameMode" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_GameMode.uasset" SILENT=true
+[2022.09.08-22.45.28:463][768]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_GameMode1D44DD6E4B3AB36462E0138F7811F691.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_GameMode.uasset'
+[2022.09.08-22.45.28:469][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_InteractiveBase" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveBase.uasset" SILENT=true
+[2022.09.08-22.45.28:479][768]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_InteractiveBaseA46E72494985DD8AA5EAF2990ABAE1CF.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveBase.uasset'
+[2022.09.08-22.45.28:485][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_InteractiveCube" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveCube.uasset" SILENT=true
+[2022.09.08-22.45.28:500][768]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_InteractiveCube46444BBB488FBD166F40739E96F2A871.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveCube.uasset'
+[2022.09.08-22.45.28:507][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_InteractiveTeleportPoint" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveTeleportPoint.uasset" SILENT=true
+[2022.09.08-22.45.28:521][768]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_InteractiveTeleportPoint71E6423948C783BE5F346CAF9CFFCFC8.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveTeleportPoint.uasset'
+[2022.09.08-22.45.28:528][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PawnBase" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_PawnBase.uasset" SILENT=true
+[2022.09.08-22.45.28:575][768]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_PawnBase47CD08374219180F0E4EB481F4C4F58F.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_PawnBase.uasset'
+[2022.09.08-22.45.28:582][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../UE Project/Kaset_Fair/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.08-22.45.28:624][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.09.08-22.45.28:894][768]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/MainMap16ED7A804BA09320B6280DAD6CC8CC96.tmp' to '../../../../../UE Project/Kaset_Fair/Content/MainMap.umap'
+[2022.09.08-22.45.28:910][768]LogFileHelpers: Saving map 'MainMap' took 0.328
+[2022.09.08-22.45.28:914][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap_BuiltData" FILE="../../../../../UE Project/Kaset_Fair/Content/MainMap_BuiltData.uasset" SILENT=true
+[2022.09.08-22.45.28:977][768]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/MainMap_BuiltData5A508C37424C12E092E07AB1689E300F.tmp' to '../../../../../UE Project/Kaset_Fair/Content/MainMap_BuiltData.uasset'
+[2022.09.08-22.45.28:984][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Time_Actor" FILE="../../../../../UE Project/Kaset_Fair/Content/Time_Actor.uasset" SILENT=true
+[2022.09.08-22.45.28:997][768]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/Time_ActorA0B8A9314ED77F89D183FD9A14AEA046.tmp' to '../../../../../UE Project/Kaset_Fair/Content/Time_Actor.uasset'
+[2022.09.08-22.45.29:004][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_Timer" FILE="../../../../../UE Project/Kaset_Fair/Content/WBP_Timer.uasset" SILENT=true
+[2022.09.08-22.45.29:018][768]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/WBP_Timer47F9B29F45E351C9030E8E87DB17191E.tmp' to '../../../../../UE Project/Kaset_Fair/Content/WBP_Timer.uasset'
