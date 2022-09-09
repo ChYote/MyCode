@@ -6520,3 +6520,23 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.09.08-23.32.02:618][343]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/Time_ActorE144B78E4CDBFB428E32FBB371141EAA.tmp' to '../../../../../UE Project/Kaset_Fair/Content/Time_Actor.uasset'
 [2022.09.08-23.32.02:627][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_Timer" FILE="../../../../../UE Project/Kaset_Fair/Content/WBP_Timer.uasset" SILENT=true
 [2022.09.08-23.32.02:642][343]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/WBP_TimerA509050740F6B6199F7B23ACF94D097B.tmp' to '../../../../../UE Project/Kaset_Fair/Content/WBP_Timer.uasset'
+[2022.09.09-01.59.05:715][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_GameMode" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_GameMode.uasset" SILENT=true
+[2022.09.09-01.59.05:741][230]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_GameModeAAB070C3489DAF9D73F37EB1B7D5120F.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_GameMode.uasset'
+[2022.09.09-01.59.05:747][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_InteractiveBase" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveBase.uasset" SILENT=true
+[2022.09.09-01.59.05:763][230]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_InteractiveBaseF64F06844EC5BA13946C1B9C6EA24EB5.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveBase.uasset'
+[2022.09.09-01.59.05:771][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_InteractiveCube" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveCube.uasset" SILENT=true
+[2022.09.09-01.59.05:842][230]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_InteractiveCube626557B84CA00C13C60DFB8E12A47D18.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveCube.uasset'
+[2022.09.09-01.59.05:853][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_InteractiveTeleportPoint" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveTeleportPoint.uasset" SILENT=true
+[2022.09.09-01.59.05:876][230]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_InteractiveTeleportPoint9C7B589B4C8C1E53F45E57AEA1E7762B.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_InteractiveTeleportPoint.uasset'
+[2022.09.09-01.59.05:885][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PawnBase" FILE="../../../../../UE Project/Kaset_Fair/Content/BP_PawnBase.uasset" SILENT=true
+[2022.09.09-01.59.05:954][230]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/BP_PawnBase4CD84B844F2ACF42D7B156A9BDAE3E91.tmp' to '../../../../../UE Project/Kaset_Fair/Content/BP_PawnBase.uasset'
+[2022.09.09-01.59.05:962][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../UE Project/Kaset_Fair/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.09-01.59.06:232][230]LogUObjectHash: Compacting FUObjectHashTables data took  15.19ms
+[2022.09.09-01.59.06:584][230]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/MainMap152A46CE491C3A6F4CE062AFFA82C942.tmp' to '../../../../../UE Project/Kaset_Fair/Content/MainMap.umap'
+[2022.09.09-01.59.06:601][230]LogFileHelpers: Saving map 'MainMap' took 0.641
+[2022.09.09-01.59.06:605][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap_BuiltData" FILE="../../../../../UE Project/Kaset_Fair/Content/MainMap_BuiltData.uasset" SILENT=true
+[2022.09.09-01.59.06:674][230]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/MainMap_BuiltData952576484DB2ED07A89A1492B960B7AD.tmp' to '../../../../../UE Project/Kaset_Fair/Content/MainMap_BuiltData.uasset'
+[2022.09.09-01.59.06:681][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Time_Actor" FILE="../../../../../UE Project/Kaset_Fair/Content/Time_Actor.uasset" SILENT=true
+[2022.09.09-01.59.06:696][230]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/Time_ActorAE5881374F535895256A39AE321FDE14.tmp' to '../../../../../UE Project/Kaset_Fair/Content/Time_Actor.uasset'
+[2022.09.09-01.59.06:703][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_Timer" FILE="../../../../../UE Project/Kaset_Fair/Content/WBP_Timer.uasset" SILENT=true
+[2022.09.09-01.59.06:718][230]LogSavePackage: Moving '../../../../../UE Project/Kaset_Fair/Saved/WBP_Timer3B2316EE4D9077822F5D0CACAF998D53.tmp' to '../../../../../UE Project/Kaset_Fair/Content/WBP_Timer.uasset'
